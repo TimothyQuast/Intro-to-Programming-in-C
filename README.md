@@ -28,7 +28,7 @@ things to be working:
 
 Your machine should have a terminal / shell readily available. This text will assume
 you are using **Windows Command Prompt**, but the instructions throughout should be 
-easy to adapt for and terminal & operating system.
+easy to adapt for any terminal & operating system.
 
 #### Windows 
 Type "cmd" into your search bar (usually at the bottom right) and click on "Command Prompt". 
@@ -50,4 +50,5 @@ Zig is a modern systems programming language. We will not use the language itsel
 in this course (although I highly recommend it), but we will use it to compile our
 C programs.
 
-TODO -- instructions
+Go to [https://ziglang.org/download], scroll down to version **TDB**, and download the
+correct zip file for your Operating System. Unzip and add the executable to your PATH.
