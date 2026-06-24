@@ -13,7 +13,7 @@ individually outside of class. Students must have access to a Personal Computer
 (e.g. Windows or MacOS) which they can bring to class. A tablet will not suffice. 
 
 ## Lessons
- 1. [Setting Up Your Project](/lessons/0001.md)
+ 1. [Setting Up Your Project](/lessons/0001/setting_up_your_project.md)
 
 
 
