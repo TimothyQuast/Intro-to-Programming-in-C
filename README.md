@@ -1,19 +1,21 @@
 # Intro to Programming in  C
 
-This course will introduce the learner to programming in C. It was created by
-Timothy Quast. Anyone is free to use it for any purpose. 
+## Description
+Build your own video game from scratch with code.
 
-We will follow along with selected excerpts from The C Programming Language, 2nd Edition
-by Kerighan & Ritchie. That book is copyrighted, but you can generally find pdf copies
-of it online using a simple Google search. Nonetheless, I recommend purchasing the book
-because it is not very expensive. Make sure to get the 2nd Edition. 
+We will use the [C](https://en.wikipedia.org/wiki/C_(programming_language)) programming 
+language and [raylib](https://github.com/raysan5/raylib) to build a video game where
+you (the fearless pilot of a space fighter jet) must navigate through a dangerous 
+asteroid field. 
 
-**Regarding the book** -- The page numbers may vary between different copies of the pdf. 
-Therefore I will refer to excerpts by Chapter and Section number.
+This will require a lot of programming and math, as well as some additional work
+individually outside of class. Students must have access to a Personal Computer
+(e.g. Windows or MacOS) which they can bring to class. A tablet will not suffice. 
 
-This README will serve as the learner's instructions for the course. 
+## Lessons
+ 1. [Setting Up Your Project](/lessons/0001.md)
 
-## Getting Started
+
 
 Before beginning, we need to setup our development environment. We will need several
 things to be working:
